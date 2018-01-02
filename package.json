@@ -1,0 +1,14 @@
+{
+  "name": "tuchosa_web_client",
+  "version": "1.0.0",
+  "description": "React web client for tuchosa.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
