@@ -1,5 +1,4 @@
-import { AdminNavBar } from './AdminNavBar'
-
+import AdminNavBar from './AdminNavBar.jsx'
 export default {
   AdminNavBar
 };
